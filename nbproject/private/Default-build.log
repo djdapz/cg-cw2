@@ -1,0 +1,1 @@
+g++ *.cpp -lGL -lglut -o RayTracer
